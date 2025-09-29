@@ -17,8 +17,6 @@ Delivered a user-friendly interface for exploring data dynamically.
 
 Power BI (Data modeling, DAX, dashboards)
 
-Excel (data preparation & initial exploration)
-
 Data visualization & reporting
 
 Analytical problem-solving
